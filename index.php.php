@@ -1,0 +1,2 @@
+<?php
+echo "THIS IS THE TG BOT API WEBHOOK URL";
